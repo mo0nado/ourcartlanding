@@ -67,7 +67,7 @@ function App() {
 
           <div className="flex flex-col sm:flex-row gap-5 mb-10">
             <a
-              href="#"
+              href="https://apps.apple.com/us/app/ourcart/id6754335345"
               className="group relative bg-white text-black px-10 py-5 rounded-2xl flex items-center gap-4 hover:bg-slate-50 transition-all shadow-2xl shadow-white/10 hover:shadow-white/20 hover:scale-105 overflow-hidden"
             >
               <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/50 to-transparent translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-1000"></div>
@@ -94,7 +94,7 @@ function App() {
           </div>
 
           <a
-            href="https://download1326.mediafire.com/2et8xmqh6stgKEaShRrQdAHFs-4i0LNEjaFx297eQ95HgR5cDgln-Y_v0OLA7Aon8kaoL1_o3ETprMrPorzbHrodSP9IeDCJL04yLV1471ALSJ7rOEf3Kwa0R59fsIJnk_nTvgCFqeCweMbDPI0lRz1JZE7nynVl1TG3WDIwAPsSUvbK/xsx8k9dd6e47jmk/application-cc1ddeee-dc82-4aff-a594-358ced6f3fe2.apk"
+            href="https://download1478.mediafire.com/8tqp3asra77gXLrJgMoxVsao1_t0qnEc9yamtypmwb7JvxBjepAOrLTuA--TQJVF5RXyCPVo2MZMqcS2IJOOaZ0QRalbw65is_rb_63xXjYUnuLKf_UqSXZQjtopGzZiPr7xWBls09uebeSU08LwCvMvuEQPIIDK4cn48hkvXA6MjkCn/czyxks0c08t3bgu/ourcart.apk"
             className="group text-emerald-400 hover:text-emerald-300 font-semibold flex items-center gap-2 transition-all text-lg"
           >
             <Download className="w-6 h-6 group-hover:translate-y-1 transition-transform" strokeWidth={2.5} />
